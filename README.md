@@ -84,7 +84,7 @@ My Weather App is a user-friendly weather application created with Python's Tkin
 ## Code Explanation 📜
 
   ### Main Components
-***'data_get' Function:** Triggered by the "Done" button. It sends a request to the OpenWeatherMap API and updates the GUI with the weather data. 🔄<br>
+***'data_get'* Function:** Triggered by the "Done" button. It sends a request to the OpenWeatherMap API and updates the GUI with the weather data. 🔄<br>
 
  **GUI Elements:**
 
