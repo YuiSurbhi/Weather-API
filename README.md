@@ -14,7 +14,7 @@
 
 ## Overview 📋
 
-My Weather App is a user-friendly weather application created with Python's Tkinter library and powered by the OpenWeatherMap API. 🎉 This app lets you select a city from a list of Indian states and displays current weather conditions including climate, description, temperature, and pressure. 🌍<br>
+My Weather App is a user-friendly weather application created with Python's Tkinter library and powered by the [OpenWeatherMap](https://openweathermap.org/) API. 🎉 This app lets you select a city from a list of Indian states and displays current weather conditions including climate, description, temperature, and pressure. 🌍<br>
 
 ## Features 📄
 
