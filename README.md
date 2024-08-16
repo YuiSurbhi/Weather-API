@@ -88,9 +88,9 @@ My Weather App is a user-friendly weather application created with Python's Tkin
 
  **GUI Elements:**
 
-  ◻️ *'Label':* Displays text such as weather conditions, description, temperature, and pressure. 🖼️<br>
-  ◻️ *'ttk.Combobox':* Dropdown menu for city selection. 🗂️<br>
-  ◻️ *'Button':* Executes the data_get function when clicked. 🖱️<br>
+  ◻️ *<ins>'Label'</ins>:* Displays text such as weather conditions, description, temperature, and pressure. 🖼️<br>
+  ◻️ *<ins>'ttk.Combobox'</ins>:* Dropdown menu for city selection. 🗂️<br>
+  ◻️ *<ins>'Button'</ins>:* Executes the data_get function when clicked. 🖱️<br>
 
 ### Code Overview 🛠️
 
